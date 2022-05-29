@@ -1,0 +1,224 @@
+.header{
+  background-color: #FFE2E2;
+  text-align: center;
+  padding-bottom: 100px;
+  margin-bottom: 0px;
+}
+
+body{
+  text-align: center !Important;
+  background: #F6F6F6 !Important;
+}
+.logo{
+  width: 10%;
+  height: 10%;
+  position: relative;
+  right:43%;
+  top:30px;
+}
+
+.scrollmenu{
+  padding-top: 400px;
+  padding-bottom: 50px;
+  background-color:#F6F6F6;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.title{
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-weight: bolder;
+  font-size:110px;
+  align-self: center;
+  color:#595B83;
+}
+
+.subtitle{
+  font-weight: bold;
+  font-family: 'Spline Sans Mono', monospace;
+  color: #595B83;
+  font-size:30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.navbar{
+    position: absolute;
+    padding-bottom: 100px;
+    font-weight: bold;
+    font-family: 'Spline Sans Mono', monospace;
+    font-size: 15pt;
+    height: 30px;
+    width: 30px;
+    border: none;
+    bottom: 430px;
+    left: 45%;
+
+}
+
+.admin{
+  position: absolute;
+  padding-bottom: 100px;
+  font-weight: bold;
+  font-family: 'Spline Sans Mono', monospace;
+  font-size: 15pt;
+  height: 30px;
+  width: 30px;
+  border: none;
+  bottom: 430px;
+  left: 18%;
+}
+
+.dugme_admin{
+  width: 290px;
+  border: none;
+  background-color:  #FFE2E2;
+  text-align: center;
+}
+
+.dugme_admin_malo{
+  width: 200px;
+  border: none;
+  background-color:  #FFE2E2;
+  text-align: center;
+}
+
+.dugme{
+    width: 200px;
+    border: none;
+    padding: 10px;
+    background-color:  #FFE2E2;
+    text-align: center;
+ }
+.linkNavBar{
+    color: #595B83;
+    text-decoration: none;
+  }
+
+  .linkNavBar:active, li a:visited, a:hover, a:link{
+    color:#FFE2E2;
+ }
+
+
+ .sredina{
+   background-color: #F6F6F6;
+   height: 500px;
+   margin-top: 0px;
+   text-align: center;
+   padding-top: 100px;
+ }
+
+ .flavor_text{
+   color: #595B83;
+   font-size:25px;
+   font-family: 'Spline Sans Mono', monospace;
+   padding-bottom: 50px;
+ }
+
+.linija{
+  color:#F6F6F6;
+  border-color: #595B83;
+  border-top-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width:10px;
+  width:20%;
+  padding-bottom: 50px;
+  margin: auto;
+}
+
+
+.scrollmenu a {
+  display: inline-block;
+  color: #F6F6F6;
+  text-align: center;
+  text-decoration: none;
+}
+.scrollmenu a:hover {
+  background-color: #777;
+}
+
+.salon_slika{
+  width: 15%;
+  height: 15%;
+  padding-right: 50px;
+}
+.Kontakt{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.button{
+  border-radius: 8px;
+  font-family: 'Spline Sans Mono', monospace;
+  color:#595B83;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border-style: none;
+  background: #FFC7C7;
+}
+
+.btn:hover {
+  background: #f4abc5;
+  text-decoration: none;
+}
+.footer{
+  background-color: #FFE2E2;
+  text-align: right;
+}
+.socials{
+  padding: 50px;
+  text-align: center;
+}
+
+.copyright{
+  color: #595B83;
+  font-size:20px;
+  font-weight: bold;
+  font-family: 'Spline Sans Mono', monospace;
+}
+
+.scrollmenu_admin{
+  margin-top: -50px;
+  padding-bottom: 50px;
+  background-color:#F6F6F6;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.login{
+  background:#FFE2E2;
+  border-radius:10px;
+  box-shadow:0px 0px 10px #000;
+  font-size: 30px;
+  font-family: 'Spline Sans Mono', monospace;
+  color:#595B83;
+  padding: 20px;
+  width: 500px;
+  margin: auto
+}
+
+.inpt{
+  font-family: 'Spline Sans Mono', monospace;
+  color:#595B83;
+  width: 380px;
+  margin-left: -90px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: none;
+}
+
+.Login_dugme{
+  display: block-inline;
+  text-align: left;
+}
+
+.promena{
+  font-family: 'Spline Sans Mono', monospace;
+  color:#595B83;
+  font-size: 20px;
+}
